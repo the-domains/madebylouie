@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[madebylouie]]></title>
+        <description><![CDATA[madebylouie]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Mar 2016 12:07:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pat Vale ~ handy with a pen]]></title>
+            <description><![CDATA[<article><h1>Pat Vale ~ handy with a pen</h1><p>Well this is a bit good isn't it...</p></article>]]></description>
+            <link>undefinedpat-vale-~-handy-with-a-pen/index.html</link>
+            <guid isPermaLink="false">11adaff3-b776-473b-86bf-155c1f0b70c3</guid>
+            <pubDate>Wed, 09 Mar 2016 12:07:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
