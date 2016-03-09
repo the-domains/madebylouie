@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-09T12:11:27.095Z'
-dateModified: '2016-03-09T12:11:08.591Z'
+datePublished: '2016-03-09T12:12:11.179Z'
+dateModified: '2016-03-09T12:11:30.849Z'
 title: Frozen banana ice-cream
 author: []
+sourcePath: _posts/2016-03-09-frozen-banana-ice-cream.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-09-frozen-banana-ice-cream.md
-published: true
 _type: Article
 
 ---
