@@ -1,7 +1,7 @@
 name: madebylouie
 favicon: null
-layout_spectrum: 0.390997446840629
-typography_spectrum: 0.6287809547502548
+layout_spectrum: 0.8014
+typography_spectrum: 0.46501
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.6035133565310389
-  lightness: 0.9375060638412833
-  saturation: 0.10577327315695584
-  rhythmicContrast: 0.789520962163806
+    - '#d3c8c6'
+    - '#ada8ac'
+    - '#868686'
+    - '#261c1a'
+    - '#4d4442'
+  brandStrength: 0.625
+  lightness: 1
+  saturation: 0.375
+  rhythmicContrast: 1
 purpose: []
