@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'They come gift wrapped and ready to rock! The totes sold out so get in quick if you need one for a gin lover!'
-datePublished: '2016-03-09T12:07:46.244Z'
-dateModified: '2016-03-09T12:06:21.301Z'
+description: "A limited run of\_#gincident tea towels\_are GO!!"
+datePublished: '2016-03-18T22:13:57.662Z'
+dateModified: '2016-03-18T22:09:32.408Z'
 title: Gincident tea towels
 author: []
+sourcePath: _posts/2016-03-09-gincident-tea-towels.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-09-gincident-tea-towels.md
-published: true
 url: gincident-tea-towels/index.html
 _type: Article
 
